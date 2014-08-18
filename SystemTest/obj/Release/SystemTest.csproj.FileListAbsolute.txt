@@ -1,0 +1,13 @@
+C:\Users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\obj\Release\SystemTest.MainWindow.resources
+C:\Users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\obj\Release\SystemTest.Properties.Resources.resources
+C:\Users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\obj\Release\SystemTest.csproj.GenerateResource.Cache
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\bin\Release\系统压力测试.exe.config
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\bin\Release\系统压力测试.exe.manifest
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\bin\Release\系统压力测试.application
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\bin\Release\系统压力测试.exe
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\bin\Release\系统压力测试.pdb
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\obj\Release\系统压力测试.exe.manifest
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\obj\Release\系统压力测试.application
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\obj\Release\系统压力测试.exe
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\obj\Release\系统压力测试.pdb
+C:\Users\kaixuan\Documents\Visual Studio 2013\Projects\SystemTest\SystemTest\obj\Release\SystemTest.csprojResolveAssemblyReference.cache

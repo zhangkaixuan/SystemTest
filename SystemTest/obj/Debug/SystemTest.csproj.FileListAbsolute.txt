@@ -1,0 +1,9 @@
+c:\users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\bin\Debug\SystemTest.exe.config
+c:\users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\bin\Debug\SystemTest.exe
+c:\users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\bin\Debug\SystemTest.pdb
+c:\users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\obj\Debug\SystemTest.csprojResolveAssemblyReference.cache
+c:\users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\obj\Debug\SystemTest.MainWindow.resources
+c:\users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\obj\Debug\SystemTest.Properties.Resources.resources
+c:\users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\obj\Debug\SystemTest.csproj.GenerateResource.Cache
+c:\users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\obj\Debug\SystemTest.exe
+c:\users\kaixuan\documents\visual studio 2013\Projects\SystemTest\SystemTest\obj\Debug\SystemTest.pdb
